@@ -15,7 +15,20 @@ h1{
 }
 body{
     font-family: sans-serif;
+    background-image: url("./img/perfil.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
 }
 h2{
     color:green;
+}
+
+.apresentacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 3rem;
+    height: 5rem;
 }
