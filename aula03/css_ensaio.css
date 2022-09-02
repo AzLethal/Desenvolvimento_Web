@@ -1,0 +1,35 @@
+.cabecalho {
+    background-color: rgba(50, 50, 100, 0.9);
+    height: 30vh;
+}
+
+.titulo {
+    color: rgb(226, 7, 7);
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2rem;
+    text-align: center;
+}
+
+.p_paragrafo {
+    color: whitesmoke;
+    font-size: 2rem;
+    padding: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.secao_principal {
+    background-color: grey;
+    height: 60vh;
+}
+
+.paragrafo_principal {
+    font-weight: bold;
+    line-height: 2;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkblue;
+    text-align: center;
+    padding: 10px;
+}

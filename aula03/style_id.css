@@ -1,7 +1,15 @@
-#corpo{
+#corpo {
     color:blue;
-   }
-   #tit2{
+}
+
+#tit2 {
     color: red;
-   }
+}
+
+.paragrafo {
+    background-color: hsl(240, 100%, 60%, .7);
+    color: brown;
+    height: 2rem;
+    font-weight: bold;
+}
    
