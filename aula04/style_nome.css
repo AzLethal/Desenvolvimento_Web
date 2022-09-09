@@ -1,0 +1,29 @@
+
+.corpo {
+    background-color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo1 {
+    background-color: maroon;
+    color: #efefff;
+}
+.cor1{
+    background-color: red;
+    color: aliceblue;
+}
+
+.cor2{
+    background-color: green;
+    color: #efefef;
+}
+.cor3{ 
+    background-color: blue;
+    color: chartreuse;
+}
+.cor4{ background-color: yellow; }
+.cor5{ background-color: grey; }
+.cor6{
+    background-color: black;
+    color: white;
+}
