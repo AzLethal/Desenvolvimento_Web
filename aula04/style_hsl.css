@@ -1,0 +1,39 @@
+.cor1 {
+    background-color: hsla(360, 100%, 80%, 0.9);
+    color: hsl(0,100%,40%)
+}
+.cor2 {
+    background-color: hsla(120, 100%, 80%, 0.5);
+    color: hsl(120,100%,40%);
+}
+
+.cor3 {
+    background-color: hsla(240, 100%, 80%, 0.2);
+    color: hsl(240,100%,40%);
+}
+
+.cor4 {
+    background-color: hsl(60, 100%, 80%);
+    color: hsl(60,100%,40%);
+}
+
+.cor5 {
+    background-color: hsl(0, 0%, 80%);
+    color: hsl(0,0%,40%);
+}
+
+.cor6 {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0,0%,0%);
+}
+
+.cor6 {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0,0%,0%);
+}
+#outraCor {
+    background-color: hsl(0, 100%, 50%);
+    color: hsl(120, 100%, 50%);
+    font-style: italic;
+    text-shadow: 2px 2px rgb(0,0,0);
+}
