@@ -4,9 +4,13 @@
     padding:0;
 }
 .tam1{
+    font-family: 'Patua One', cursive, 'Pavanam', sans-serif;;
     background: hsla(240,100%,50%,0.4);
     width: 240px;
     height: 240px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 240px;
 }
 .tam2{
     background: hsla(0,100%,50%,0.4);
